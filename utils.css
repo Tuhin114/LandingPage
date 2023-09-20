@@ -48,3 +48,16 @@
 .text-blue{
     color: rgb(161, 131, 231);
 }
+
+.btn{
+    padding: 7px 12px;
+    border: 3px solid white;
+    border-radius: 6px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(107, 107, 249)
+}
+
+.overflow-hidden{
+    overflow: hidden;
+}
