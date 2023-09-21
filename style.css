@@ -57,3 +57,17 @@ margin-left: 200%;
   padding-left: 63px;
   padding-right: 63px;
 }
+
+.box{
+  margin: 12px 22px;
+  min-width: 33vw;
+  border: 2px solid black;
+}
+
+.box ul{
+  list-style: none;
+}
+
+.box ul li{
+  margin: 12px 2px;
+}
