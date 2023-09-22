@@ -50,19 +50,31 @@ margin-left: 200%;
 }
 
 .section2 h1{
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 .section2 p{
   padding-left: 63px;
   padding-right: 63px;
+  padding: 0 8vw;
+  text-align: center;
 }
 
 .box{
+  padding: 8px 0;
   margin: 12px 22px;
   min-width: 20vw;
   border: 2px solid rgb(158, 81, 81);
   text-align: center;
+}
+
+.box h2{
+  font-size: 2rem;
+}
+
+.highlighted{
+  font-size: 1.5rem;
+  font-weight: bolder;
 }
 
 .box ul{
