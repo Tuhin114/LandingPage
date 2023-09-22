@@ -60,8 +60,9 @@ margin-left: 200%;
 
 .box{
   margin: 12px 22px;
-  min-width: 33vw;
-  border: 2px solid black;
+  min-width: 20vw;
+  border: 2px solid rgb(158, 81, 81);
+  text-align: center;
 }
 
 .box ul{
