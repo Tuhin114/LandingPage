@@ -70,6 +70,7 @@ margin-left: 200%;
 
 .box h2{
   font-size: 2rem;
+  padding: 12px 0;
 }
 
 .highlighted{
@@ -83,4 +84,8 @@ margin-left: 200%;
 
 .box ul li{
   margin: 12px 2px;
+}
+
+.plantable{
+  display: flex;
 }
